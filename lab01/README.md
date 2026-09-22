@@ -2,7 +2,7 @@
 For ENGR4170U Course
 
 # Google Colab Link
-https://colab.research.google.com/drive/1gwXdS9YbpzZKUBp7iqiJJyU0EKHyWhiJ?authuser=1#scrollTo=ssUvgAduEJ0e
+https://colab.research.google.com/drive/1gwXdS9YbpzZKUBp7iqiJJyU0EKHyWhiJ?usp=sharing
 
 # Lab 1 — Building Your Deep Learning Workbench
 
