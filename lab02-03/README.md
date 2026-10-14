@@ -1,7 +1,7 @@
 # Deep Learning Labs 2 & 3
 ## From Supervised Learning to a Shallow Neural Network
 
-##NOTE: Figures are generated within Jupyter Notebook without individual files, in case the oversized notebook cannot be sent to GitHub again
+NOTE: Figures are generated within Jupyter Notebook without individual files, in case the oversized notebook cannot be sent to GitHub again
 
 ## Problem
 The objective of this laboratory is to predict the net electrical
