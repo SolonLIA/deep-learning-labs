@@ -1,0 +1,8 @@
+Question,Correct Retrieval?,Grounded Answer?,Problem Observed
+Why might a bearing overheat?,Yes,Likely - verify,No obvious issue
+What could cause shaft vibration?,Yes,Likely - verify,No obvious issue
+What are symptoms of cavitation?,Yes,Likely - verify,No obvious issue
+Why might a belt slip?,Yes,Likely - verify,No obvious issue
+What should I do before servicing machinery?,Yes,Likely - verify,No obvious issue
+What torque should I use to tighten the bearing housing bolts?,N/A - unsupported,No,Did not clearly acknowledge missing information
+What is the acceptable motor insulation resistance in megaohms?,N/A - unsupported,No,Did not clearly acknowledge missing information

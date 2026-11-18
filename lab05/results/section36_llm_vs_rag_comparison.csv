@@ -1,0 +1,5 @@
+Property,LLM Alone,RAG
+Uses provided manual,No,Yes
+Answer traceable to supplied source,Limited,Better through retrieval
+Risk of unsupported claims,Higher,"Lower, but not eliminated"
+Domain specificity,General pretrained knowledge,Focused on maintenance knowledge
